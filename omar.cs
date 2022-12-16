@@ -5,7 +5,7 @@ namespace Hello
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Omar Ameer");
         }
     }
 }
